@@ -6,7 +6,7 @@
 
 <body>
 
-<?php echo "Hello Joseph!"; ?>
+<?php echo "Hello mohab!"; ?>
 <?php echo "Hello World!"; ?>
 <?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?><br /><br />
 
